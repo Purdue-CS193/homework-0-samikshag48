@@ -1,3 +1,10 @@
+# Samiksha Gupta's First CS193 Homework
+- the opportunity to learn some basic CS skills
+- to collaborate and connect with other CS/DS students
+- CS193 is truly a space where I can meet other CS students and learn in a stress-free environment
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
